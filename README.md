@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/adviceImg.png)
 
 ### Links
 
@@ -42,10 +42,10 @@ Users should be able to:
 
 ### Continued development
 
-🚀 Advanced JavaScript Techniques
-🚀 Frontend Frameworks (React.js)
-🚀 Responsive Design
-🚀 Version Control and Collaboration Tools
+- Advanced JavaScript Techniques
+- Frontend Frameworks (React.js)
+- Responsive Design
+- Version Control and Collaboration Tools
 
 These areas will enhance my skills and contribute to project success. I'm committed to ongoing learning and improvement in frontend development
 
